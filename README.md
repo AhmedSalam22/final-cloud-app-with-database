@@ -1,3 +1,19 @@
+**Demo**
+![see my webite here](http://ahmedmahersalam.eu-gb.mybluemix.net/onlinecourse)
+
+
+**About**
+i have fork this and complete the project
+this is  My Final project on Developing Applications with SQL, Databases, and Django at Coursera platform
+this is a very basic app that help you to learn django ORM and relationship between tables
+-One to one 
+-many to many
+- one to many
+how to deploy your app in IBM cloud Foundry 
+how to query data in django orm and overview about SQL and of course in Django you don't have to write 
+raw SQL if you don't need it you can use ORM it will do 90% of the work but sometimes you need to know 
+how yo query in SQL as you may need its debend on your complixity of your Project
+
 
 **General Notes**
 
